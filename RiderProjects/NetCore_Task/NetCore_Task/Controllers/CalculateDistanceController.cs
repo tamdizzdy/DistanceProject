@@ -202,7 +202,7 @@ namespace NetCore_Task.Controllers
                                 // Tính toán khoảng cách và thời gian dựa trên vị trí mới và vị trí trước đó
                                 double distance =
                                     CalculateDistance(previousLatitude, previousLongitude, latitude, longitude);
-                                double speed = CalculateSpeed(distance, 10); // Giả sử thời gian di chuyển là 10 giây
+                                double speed = CalculateSpeed(distance, 10); // Giả sử thời gqqian di chuyển là 10 giây
                                 if (timeFromLastUpdate == 0)
                                 {
                                     time = CalculateTime(distance, speed);
