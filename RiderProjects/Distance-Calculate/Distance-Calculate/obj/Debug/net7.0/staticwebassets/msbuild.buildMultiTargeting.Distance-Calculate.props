@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Distance-Calculate.props" />
+</Project>

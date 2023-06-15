@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\RiderProjects\Distance-Calculate\Distance-Calculate\obj\.store\.stage\g2hlv4zy.pdi</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\siusa\RiderProjects\Distance-Calculate\Distance-Calculate\obj\.store\.stage\g2hlv4zy.pdi</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.6.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\siusa\RiderProjects\Distance-Calculate\Distance-Calculate\obj\.store\.stage\g2hlv4zy.pdi\" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">C:\Users\siusa\RiderProjects\Distance-Calculate\Distance-Calculate\obj\.store\.stage\g2hlv4zy.pdi\dotnet-aspnet-codegenerator\7.0.7</Pkgdotnet-aspnet-codegenerator>
+  </PropertyGroup>
+</Project>
